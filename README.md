@@ -21,7 +21,7 @@ where you started the server (i.e., wherever you ran `npm start`). To restart a 
 server, run `npm start` again.
 
 > Note: Make sure to stop the server in the practice/exercise if there is one.
-> Leaving a server running may prevent servers in other practices/exercises
+> Leaving a server running may prevent servers in other practices/exercises<>
 > from starting properly.
 
 ## Endpoints
